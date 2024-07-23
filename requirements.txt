@@ -1,0 +1,7 @@
+openpyxl~=3.1.2
+selenium~=4.21.0
+pytest~=8.1.1
+PyAutoGUI~=0.9.54
+pyperclip~=1.8.2
+pynput~=1.7.6
+pillow~=10.3.0

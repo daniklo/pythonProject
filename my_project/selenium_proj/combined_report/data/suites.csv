@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 29 14:34:55 IDT 2024","Wed May 29 14:34:55 IDT 2024","1","my_project.selenium_proj","test_allure_test","","","","test_as2","test for text in element "
+"broken","Wed May 29 14:34:52 IDT 2024","Wed May 29 14:34:55 IDT 2024","2106","my_project.selenium_proj","test_allure_test","","","","test_as1",""
+"broken","Wed May 29 14:35:38 IDT 2024","Wed May 29 14:35:41 IDT 2024","2275","my_project.selenium_proj","test_allure_test","","","","test_as3",""
+"passed","Wed May 29 14:35:42 IDT 2024","Wed May 29 14:35:42 IDT 2024","1","my_project.selenium_proj","test_allure_test","","","","test_as4","test for text in element "
