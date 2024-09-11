@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Wed Sep 11 13:21:03 IDT 2024","Wed Sep 11 13:21:03 IDT 2024","0","my_project.allure_reports","info","","","","test_info_link3","link 3 under info"
+"broken","Wed Sep 11 09:43:53 IDT 2024","Wed Sep 11 09:43:53 IDT 2024","0","","","","","","test_info_link1","link 1 under info"
+"passed","Wed Sep 11 13:20:58 IDT 2024","Wed Sep 11 13:21:03 IDT 2024","4794","my_project.allure_reports","info","","","","test_info_link1","link 1 under info"
+"skipped","Wed Sep 11 13:21:03 IDT 2024","Wed Sep 11 13:21:03 IDT 2024","0","my_project.allure_reports","info","","","","test_info_link2","link 2 under info"
+"skipped","Wed Sep 11 13:21:03 IDT 2024","Wed Sep 11 13:21:03 IDT 2024","0","my_project.allure_reports","voices","","","","test_voices_link1","link 1 under voices"
+"failed","Wed Sep 11 13:21:03 IDT 2024","Wed Sep 11 13:21:08 IDT 2024","4610","my_project.allure_reports","voices","","","","test_voices_link2","link 2 under voices"
+"skipped","Wed Sep 11 13:21:08 IDT 2024","Wed Sep 11 13:21:08 IDT 2024","0","my_project.allure_reports","voices","","","","test_voices_link3","link 3 under voices"
